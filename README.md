@@ -1,18 +1,23 @@
-👋 Hi, I'm Manoj Kumar K
 
-<a href="https://github.com/Mano522">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Manoj+Kumar+K;Computer+Science+Engineer;Flutter+%26+React+Developer;Full-Stack+Developer;Building+Real-World+Projects;Create+%7C+Code+%7C+Innovate" alt="Typing SVG" />
-</a>💻 Computer Science Engineering Student | Full-Stack Developer | Flutter Developer
+<h1 align="center">👋 Hi, I'm Manoj Kumar K</h1>
 
-🎓 Computer Science Engineering Student at Jyothy Institute of Technology, Bengaluru
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Manoj+Kumar+K;Computer+Science+Engineer;Flutter+%26+React+Developer;Full-Stack+Developer;Building+Real-World+Projects;Create+%7C+Code+%7C+Innovate" alt="Typing SVG"/>
+</p>
 
-I'm a passionate developer who enjoys transforming ideas into practical software solutions. I work on web applications, mobile applications, and technology-driven projects while continuously exploring new tools and technologies.
+<h3 align="center">💻 Computer Science Engineering Student | Full-Stack Developer | Flutter Developer</h3>
 
-I believe in learning by building, experimenting with new ideas, and creating solutions that make a difference.
+<p align="center">
+  🎓 Computer Science Engineering Student at Jyothy Institute of Technology, Bengaluru
+</p>
+
+<p align="center">
+  Passionate developer who enjoys transforming ideas into practical software solutions. I work on web applications, mobile applications, and technology-driven projects while continuously exploring new tools and technologies.
+</p>
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 Pursuing BE in Computer Science Engineering
 - 🏫 Jyothy Institute of Technology, Bengaluru
@@ -25,52 +30,61 @@ I believe in learning by building, experimenting with new ideas, and creating so
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-Languages
+### 👨‍💻 Programming Languages
 
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
 
-Frontend Development
+### 🌐 Frontend Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-Backend & Mobile Development
+### ⚙️ Backend & Mobile Development
 
-"NodeJS" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"Express" (https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-Database & Data Analytics
+### 🗄️ Database & Data Analytics
 
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-Tools & Platforms
+### 🛠️ Tools & Platforms
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📚 "BlockMate" (https://github.com/Mano522/Blockmate)
-
-A Learning Platform for VTU Students
+### 📚 BlockMate
+**A Learning Platform for VTU Students**
 
 - Platform for accessing study materials, notes and previous-year question papers.
 - React + Vite frontend.
@@ -78,51 +92,57 @@ A Learning Platform for VTU Students
 - MongoDB database.
 - Flutter mobile application.
 
-🛒 "CB Mart" (https://github.com/Mano522/CB-mart)
+[![BlockMate](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mano522/Blockmate)
 
-E-Commerce Web Application
+### 🛒 CB Mart
+**E-Commerce Web Application**
 
 - Developed an online shopping platform.
 - Focused on affordable products and a user-friendly shopping experience.
 - Implemented product listings, shopping cart and checkout functionality.
 
-🚦 "Smart Traffic Signal Optimization" (https://github.com/Mano522/ada)
+[![CB Mart](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mano522/CB-mart)
 
-Algorithm Design & Analysis Mini Project
+### 🚦 Smart Traffic Signal Optimization
+**Algorithm Design & Analysis Mini Project**
 
 - Traffic signal optimization using a Greedy Algorithm.
 - Vehicle count-based signal prioritization.
 - Python Tkinter and web-based implementation.
 
-📱 "WhatsApp Clone" (https://github.com/Mano522/Whatsapp-Clone)
+[![Traffic Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mano522/ada)
 
-Flutter Mobile Application
+### 📱 WhatsApp Clone
+**Flutter Mobile Application**
 
 - WhatsApp-inspired mobile application.
 - Built using Flutter.
 
-🛍️ "Avenza" (https://github.com/Mano522/avenza)
+[![WhatsApp Clone](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mano522/Whatsapp-Clone)
 
-E-Commerce Project
+### 🛍️ Avenza
+**E-Commerce Project**
 
 - Working on an online shopping experience.
 - Focused on product discovery and affordable shopping.
 
----
-
-🎯 Current Focus
-
-📱 Flutter & Mobile App Development
-⚛️ React.js & Frontend Development
-💻 Full-Stack Development
-🤖 Artificial Intelligence & Machine Learning
-🗄️ Backend & Database Development
-☁️ Cloud & Application Deployment
-🚀 Building Practical Software Solutions
+[![Avenza](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mano522/avenza)
 
 ---
 
-🌱 Currently Learning
+## 🎯 Current Focus
+
+- 📱 Flutter & Mobile App Development
+- ⚛️ React.js & Frontend Development
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🗄️ Backend & Database Development
+- ☁️ Cloud & Application Deployment
+- 🚀 Building Practical Software Solutions
+
+---
+
+## 🌱 Currently Learning
 
 - Advanced JavaScript
 - React.js
@@ -134,7 +154,7 @@ E-Commerce Project
 
 ---
 
-🤝 Open To
+## 🤝 Open To
 
 - 🚀 Innovative Software Development Projects
 - 💻 Full-Stack Development Opportunities
@@ -146,32 +166,50 @@ E-Commerce Project
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>🔥 GitHub Streak
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mano522&theme=tokyonight&hide_border=true" />
-</p>📈 Contribution Activity
+  <img src="https://streak-stats.demolab.com?user=Mano522&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano522&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>---
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano522&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
 
-🌐 Connect With Me
+---
 
-<p align="left">
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/Mano522">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>---
+</p>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mano522&style=flat&color=39D353&label=PROFILE+VIEWS"/>
-</p><h3 align="center">💡 "Build Something. Learn Something. Make an Impact."</h3><p align="center">Thanks for visiting my profile! ⭐</p>
+  <img src="https://komarev.com/ghpvc/?username=Mano522&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<h3 align="center">💡 Build Something. Learn Something. Make an Impact.</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
