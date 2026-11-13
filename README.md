@@ -182,11 +182,17 @@
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mano522&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img
+    src="https://ghchart.rshah.org/39D353/Mano522"
+    alt="Manoj's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
+
 
 ---
 
