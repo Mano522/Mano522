@@ -183,18 +183,24 @@
 ---
 
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/39D353/Mano522"
-    alt="Manoj's GitHub Contribution Graph"
+    src="https://ghchart.xqsit94.in/dark:ff8c00/Mano522"
+    alt="Manoj's Orange GitHub Contribution Graph"
     width="100%"
   />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-EVERY_DAY-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/CONSISTENCY-IS_KEY-FF8C00?style=flat-square" />
+</p>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
