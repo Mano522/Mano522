@@ -1,21 +1,3 @@
----
-
-## 🚘 My Coding Journey
-
-<p align="center">
-  <img
-    src="https://media.tenor.com/2uyENRmiUt0AAAAC/car-driving.gif"
-    width="450"
-    alt="Animated driving car"
-  />
-</p>
-
-<p align="center">
-  <b>LEARN • BUILD • REPEAT</b>
-</p>
-
----
-
 <h1 align="center">👋 Hi, I'm Manoj Kumar K</h1>
 
 <p align="center">
