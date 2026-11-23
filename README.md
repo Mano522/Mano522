@@ -1,4 +1,3 @@
- 
 <!-- ================= PREMIUM MANO522 PROFILE ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=190&section=header&text=Hey,%20I'm%20Manoj%20Kumar%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CREATE%20%7C%20CODE%20%7C%20INNOVATE&descAlignY=60&descSize=17"/>
@@ -10,9 +9,9 @@
 <!-- ================= INNOVA CRYSTA ANIMATION ================= -->
 
 <p align="center">
-  <img src="./assets/innova-crysta.gif"
+  <img src="./profile/innova-crysta-live.gif"
        width="100%"
-       alt="Toyota Innova Crysta"/>
+       alt="Toyota Innova Crysta GitHub activity animation"/>
 </p>
 
 <h2 align="center">⚡ BUILDING THE FUTURE, ONE LINE AT A TIME</h2>
@@ -192,8 +191,8 @@
 ## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF8C00&icon_color=FF8C00"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF8C00&icon_color=FF8C00" alt="Manoj's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00" alt="Most used languages"/>
 </p>
 
 ---
@@ -201,7 +200,11 @@
 ## 🔥 GITHUB STREAK
 
 <p align="center">
-  <img src="./profile/streak.svg" width="100%" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Mano522&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=AAAAAA"
+    width="100%"
+    alt="Manoj's GitHub contribution streak"
+  />
 </p>
 
 ---
@@ -209,7 +212,11 @@
 ## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:ff8c00/Mano522" width="100%" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://ghchart.rshah.org/FF8C00/Mano522"
+    width="100%"
+    alt="Manoj's GitHub contribution graph"
+  />
 </p>
 
 <p align="center">
