@@ -1,4 +1,4 @@
-<!-- ================= PREMIUM MANO522 PROFILE ================= -->
+ <!-- ================= PREMIUM MANO522 PROFILE ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=190&section=header&text=Hey,%20I'm%20Manoj%20Kumar%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CREATE%20%7C%20CODE%20%7C%20INNOVATE&descAlignY=60&descSize=17"/>
 
@@ -6,13 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Flutter+%26+React+Developer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Building+Real-World+Projects"/>
 </p>
 
-<!-- ================= INNOVA CRYSTA ANIMATION ================= -->
+<!-- ================= TOYOTA INNOVA CRYSTA ================= -->
+
+<h2 align="center">🚗 MY GITHUB ACTIVITY — INNOVA CRYSTA</h2>
 
 <p align="center">
-  <img src="./profile/innova-crysta-live.gif"
-       width="100%"
-       alt="Toyota Innova Crysta GitHub activity animation"/>
+  <img
+    src="./profile/innova-crysta-live.gif"
+    width="100%"
+    alt="Toyota Innova Crysta dynamic GitHub activity animation"
+  />
 </p>
+
+<p align="center">
+  <b>🔥 Higher Streak + More Contributions = Higher Speed</b>
+</p>
+
+---
 
 <h2 align="center">⚡ BUILDING THE FUTURE, ONE LINE AT A TIME</h2>
 
@@ -191,8 +201,8 @@
 ## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF8C00&icon_color=FF8C00" alt="Manoj's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF8C00&icon_color=FF8C00" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00" alt="Top languages"/>
 </p>
 
 ---
@@ -203,7 +213,7 @@
   <img
     src="https://streak-stats.demolab.com?user=Mano522&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=AAAAAA"
     width="100%"
-    alt="Manoj's GitHub contribution streak"
+    alt="GitHub streak statistics"
   />
 </p>
 
@@ -215,7 +225,7 @@
   <img
     src="https://ghchart.rshah.org/FF8C00/Mano522"
     width="100%"
-    alt="Manoj's GitHub contribution graph"
+    alt="GitHub contribution graph"
   />
 </p>
 
