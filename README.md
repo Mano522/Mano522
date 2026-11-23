@@ -1,27 +1,13 @@
+ 
+<!-- ================= PREMIUM MANO522 PROFILE ================= -->
 
-<!-- ================= MANO522 GITHUB PROFILE ================= -->
-
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=190&section=header&text=Hey,%20I'm%20Manoj%20Kumar%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CREATE%20%7C%20CODE%20%7C%20INNOVATE&descAlignY=60&descSize=17"/>
 
-<!-- TYPING TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Flutter+%26+React+Developer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Building+Real-World+Projects"/>
 </p>
 
-<!-- INTRODUCTION -->
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  🎓 Computer Science Engineering Student at Jyothy Institute of Technology, Bengaluru<br/>
-  💻 Interested in Full-Stack Development and Mobile App Development<br/>
-  📱 Flutter & React Developer<br/>
-  🤖 Exploring AI, Machine Learning and New Technologies<br/>
-  🏆 Hackathon Enthusiast | Problem Solver | Lifelong Learner
-</p>
-
-<!-- TOYOTA INNOVA CRYSTA ANIMATION -->
-<h2 align="center">🚘 My GitHub Journey</h2>
+<!-- ================= INNOVA CRYSTA ANIMATION ================= -->
 
 <p align="center">
   <img src="./assets/innova-crysta.gif"
@@ -29,162 +15,227 @@
        alt="Toyota Innova Crysta"/>
 </p>
 
+<h2 align="center">⚡ BUILDING THE FUTURE, ONE LINE AT A TIME</h2>
+
 <p align="center">
-  <i>Every contribution takes me one step further.</i>
+  🎓 Jyothy Institute of Technology, Bengaluru
+</p>
+
+<p align="center">
+  Computer Science Engineering Student | Full-Stack Developer | Flutter Developer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mano522&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
+## 👨‍💻 ABOUT ME
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,tailwind,flutter,dart,python,c,nodejs,express,mongodb,mysql,firebase,git,github,vscode,androidstudio&theme=dark"/>
+- 🎓 Pursuing BE in Computer Science Engineering.
+- 🏫 Jyothy Institute of Technology, Bengaluru.
+- 💻 Interested in Full-Stack Development.
+- 📱 Exploring Flutter and Mobile App Development.
+- ⚛️ Building applications using React.js.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Developing practical, real-world software projects.
+- 🏆 Participating in Hackathons and Technical Events.
+- 🤝 Interested in Open Source and Collaboration.
+
+---
+
+## 💻 TECH STACK
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🔥 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
+## 🚀 FEATURED PROJECTS
 
 ### 📚 BlockMate
-VTU learning platform for notes, previous year questions and study materials.
+**VTU Learning & Study Material Platform**
 
-**Tech:** React, Vite, Express.js, MongoDB
+- Notes, previous-year question papers and study materials.
+- React + Vite frontend.
+- Node.js + Express backend.
+- MongoDB database.
 
-[View Project](https://github.com/Mano522/Blockmate)
-
-</td>
-<td width="50%">
+[![BlockMate](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/Blockmate)
 
 ### 🌱 India Green Grid
-Renewable energy decision-support platform with dashboards and energy insights.
+**Renewable Energy Decision-Support Platform**
 
-**Tech:** Next.js, React, TypeScript, Tailwind CSS
+- Renewable Energy Dashboard.
+- Solar Energy Calculator.
+- RPO Compliance Tracking.
+- Green Jobs and Finance Insights.
 
-[View Project](https://github.com/KiranJITdesign/India-green-grid)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+[![India Green Grid](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KiranJITdesign/India-green-grid)
 
 ### 🛒 CB Mart
-E-commerce project focused on online shopping and product management.
+**E-Commerce Web Application**
 
-[View Project](https://github.com/Mano522/CB-mart)
+- Online shopping platform.
+- Product listings and user-friendly interface.
 
-</td>
-<td width="50%">
+[![CB Mart](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/CB-mart)
 
 ### 🚦 Smart Traffic Signal Optimization
-A project exploring intelligent traffic signal optimization.
 
-[View Project](https://github.com/Mano522/ada)
+- Traffic optimization using Greedy Algorithm.
+- Vehicle-count-based signal prioritization.
+- Python Tkinter and web implementation.
 
-</td>
-</tr>
+[![Traffic Project](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/ada)
 
-<tr>
-<td width="50%">
+### 📱 WhatsApp Clone
 
-### 💬 WhatsApp Clone
-Flutter-based messaging application with Firebase authentication.
+- WhatsApp-inspired mobile application.
+- Developed using Flutter.
 
-[View Project](https://github.com/Mano522/Whatsapp-Clone)
-
-</td>
-<td width="50%">
+[![WhatsApp Clone](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/Whatsapp-Clone)
 
 ### 🛍️ Avenza
-Online shopping venture focused on affordable products.
 
-[View Project](https://github.com/Mano522/avenza)
+- E-commerce and online shopping experience.
+- Product discovery and affordable shopping.
 
-</td>
-</tr>
-</table>
+[![Avenza](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/avenza)
 
 ---
 
-<!-- CURRENT FOCUS -->
-<h2 align="center">🎯 Current Focus</h2>
+## 🎯 CURRENT FOCUS
 
-- Building practical web and mobile applications.
-- Improving full-stack development skills.
-- Exploring AI-powered applications.
-- Developing projects that solve real-world problems.
-- Participating in hackathons and collaborative projects.
+```text
+💻 Full-Stack Development
+📱 Flutter & Mobile App Development
+⚛️ React.js & Frontend Development
+🤖 Artificial Intelligence & Machine Learning
+🗄️ Backend & Database Development
+☁️ Cloud & Application Deployment
+🏆 Hackathons & Open Source
+🚀 Building Real-World Projects
+```
 
 ---
 
-<!-- LEARNING -->
-<h2 align="center">📖 Currently Learning</h2>
+## 🌱 CURRENTLY LEARNING
+
+- Advanced JavaScript
+- React.js
+- Flutter & Dart
+- Node.js & Express.js
+- MongoDB
+- Artificial Intelligence & Machine Learning
+- Software Engineering & System Design
+
+---
+
+## 🤝 OPEN TO
+
+- Software Development Projects
+- Full-Stack Development Opportunities
+- Flutter & Mobile App Development
+- AI & Machine Learning Projects
+- Open Source Contributions
+- Internship Opportunities
+- Hackathons & Technical Collaborations
+
+---
+
+## 📊 GITHUB STATISTICS
 
 <p align="center">
-  React.js • Flutter • Firebase • Node.js • AI/ML
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FF8C00&icon_color=FF8C00"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00"/>
 </p>
 
 ---
 
-<!-- OPEN TO -->
-<h2 align="center">🤝 Open To</h2>
+## 🔥 GITHUB STREAK
 
 <p align="center">
-  Software Development Internships • Hackathons<br/>
-  Open Source Contributions • Collaboration
+  <img src="./profile/streak.svg" width="100%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<!-- GITHUB STATISTICS -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mano522&show_icons=true&theme=tokyonight&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=080B12&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano522&layout=compact&theme=tokyonight&title_color=FF8C00&text_color=FFFFFF&bg_color=080B12&hide_border=true"/>
-</p>
-
----
-
-<!-- GITHUB STREAK -->
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mano522&theme=dark&background=080B12&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" width="80%"/>
-</p>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://ghchart.xqsit94.in/dark:ff8c00/Mano522" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-EVERY_DAY-FF8C00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CONSISTENCY-IS_KEY-FF8C00?style=flat-square"/>
+</p>
+
 ---
 
-<!-- CONNECT -->
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/Mano522">
-    <img src="https://img.shields.io/badge/GitHub-Mano522-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- PROFILE VIEWS -->
+<h3 align="center">💡 BUILD SOMETHING. LEARN SOMETHING. MAKE AN IMPACT.</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mano522&label=PROFILE%20VIEWS&color=FF8C00&style=for-the-badge"/>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=120&section=footer"/>
