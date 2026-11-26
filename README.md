@@ -1,17 +1,32 @@
+
 <!-- ================= PREMIUM MANO522 PROFILE ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:FF8C00,100:080B12&height=190&section=header&text=Hey,%20I'm%20Manoj%20Kumar%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CREATE%20%7C%20CODE%20%7C%20INNOVATE&descAlignY=60&descSize=17"/>
+
+<!-- ================= WHITE INNOVA HIGHWAY GIF ================= -->
+
+<p align="center">
+  <img
+    src="./profile/white-innova-highway.gif"
+    width="100%"
+    alt="White Toyota Innova Crysta driving on a highway"
+  />
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Flutter+%26+React+Developer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Building+Real-World+Projects"/>
 </p>
 
-<!-- ================= INNOVA CRYSTA ANIMATION ================= -->
+<!-- ================= INNOVA CRYSTA LIVE ANIMATION ================= -->
 
 <p align="center">
-  <img src="./profile/innova-crysta-live.gif"
-       width="100%"
-       alt="Toyota Innova Crysta GitHub activity animation"/>
+  <img
+    src="./profile/innova-crysta-live.gif"
+    width="100%"
+    alt="Toyota Innova Crysta GitHub activity animation"
+  />
 </p>
 
 <h2 align="center">⚡ BUILDING THE FUTURE, ONE LINE AT A TIME</h2>
