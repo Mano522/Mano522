@@ -113,6 +113,7 @@
 ## 🚀 FEATURED PROJECTS
 
 ### 📚 BlockMate
+
 **VTU Learning & Study Material Platform**
 
 - Notes, previous-year question papers and study materials.
@@ -123,6 +124,7 @@
 [![BlockMate](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mano522/Blockmate)
 
 ### 🌱 India Green Grid
+
 **Renewable Energy Decision-Support Platform**
 
 - Renewable Energy Dashboard.
@@ -133,6 +135,7 @@
 [![India Green Grid](https://img.shields.io/badge/VIEW_PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KiranJITdesign/India-green-grid)
 
 ### 🛒 CB Mart
+
 **E-Commerce Web Application**
 
 - Online shopping platform.
