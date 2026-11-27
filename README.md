@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="./profile/white-innova-highway.gif"
+    src="https://raw.githubusercontent.com/Mano522/Mano522/main/profile/white-innova-highway.gif"
     width="100%"
     alt="White Toyota Innova Crysta driving on a highway"
   />
